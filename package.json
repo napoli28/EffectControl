@@ -1,0 +1,16 @@
+{
+  "name": "com.napoli28.effectcontrol",
+  "version": "0.0.1",
+  "displayName": "EffectControl",
+  "unity": "2018.1",
+  "dependencies": {
+    "com.strodio.unity-toolkit.serializable-dictionary": "0.0.2"
+  },
+  "keywords": [
+    "EffectControl"
+  ],
+  "author": {
+    "name": "napoli28",
+    "url": "https://github.com/napoli28/EffectControl.git"
+  }
+}

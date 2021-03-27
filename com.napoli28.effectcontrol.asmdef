@@ -1,0 +1,16 @@
+{
+    "name": "com.yzy.effectcontrol",
+    "references": [
+        "GUID:869078eff615e6f43b0c90291f1d06de",
+        "GUID:f53e0a8f77d4f3546a60a7def3e6a914"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
