@@ -4,7 +4,7 @@
   "displayName": "EffectControl",
   "unity": "2018.1",
   "dependencies": {
-    "com.strodio.unity-toolkit.serializable-dictionary": "https://github.com/StromKuo/SerializableDictionary.git"
+    "com.strodio.unity-toolkit.serializable-dictionary": "0.0.2"
   },
   "keywords": [
     "EffectControl"
